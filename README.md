@@ -9,8 +9,8 @@
 For this project, I will be tasked with provisioning a Spark Cluster on 
 AWS EMR for loading and running some analysis on Yelp’s Reviews and Businesses 
 dataset (about 10gb) from Kaggle. I will run my analysis via Jupyter 
-Notebook and the expected output artifact is a .ipynb file 
-````
+Notebook and the expected output artifact is a .ipynb file  
+````  
 ![](https://github.com/YuboC/STA9760_Yelp_Data_Analysis/blob/master/assets/2.PNG)
 ![](https://github.com/YuboC/STA9760_Yelp_Data_Analysis/blob/master/assets/3.PNG)
 ## Part I: Installation and Initial Setup
