@@ -1,3 +1,8 @@
+[![GitHub stars](https://img.shields.io/github/stars/YuboC/STA9760_Yelp_Data_Analysis.svg?style=flat&label=Star)](https://github.com/YuboC/STA9760_Yelp_Data_Analysis/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/YuboC/STA9760_Yelp_Data_Analysis.svg?style=flat&label=Fork)](https://github.com/YuboC/STA9760_Yelp_Data_Analysis/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/YuboC/STA9760_Yelp_Data_Analysis.svg?style=flat&label=Watch)](https://github.com/YuboC/STA9760_Yelp_Data_Analysis/watchers)
+
+
 # Analyzing 10Gb of Yelp Reviews Data
 
 ````
@@ -6,7 +11,8 @@ AWS EMR for loading and running some analysis on Yelp’s Reviews and Businesses
 dataset (about 10gb) from Kaggle. I will run my analysis via Jupyter 
 Notebook and the expected output artifact is a .ipynb file 
 ````
-
+![](https://github.com/YuboC/STA9760_Yelp_Data_Analysis/blob/master/assets/2.PNG)
+![](https://github.com/YuboC/STA9760_Yelp_Data_Analysis/blob/master/assets/3.PNG)
 ## Part I: Installation and Initial Setup
 In this portion, I will import the necessary dependencies (pandas and matplotlib) and load my dataset as a pyspark dataframe.
 
