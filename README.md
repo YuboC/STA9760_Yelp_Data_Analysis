@@ -26,8 +26,9 @@ For this next part, you will attempt to answer the question: are the (written) r
 For this final part you may choose to either answer the question posed or explore the data in some other manner of your own choosing. The only requirements are:
 You must leverage the users dataset provided
 You must have at least one data visualization as part of your analysis
-
-## Note: Spark on Docker
+  
+# Notes:
+## Spark on Docker
 - **EC2 Instance With Internet Connection**
 ````
 First, we begin by configuring and building an EC2 instance that can 
