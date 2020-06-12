@@ -142,7 +142,7 @@ must be accessible via the web browser.
     SELECT `column_name`, COUNT ( `column_name`) as new_name
     FROM Table_name
     GROUP BY `column_name`
-    ORDER BY column_name2 DESC
+    ORDER BY column_name DESC
     LIMIT 5
     '''
     )
